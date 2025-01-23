@@ -1,5 +1,6 @@
 # VTS_NET
 ASP .NET Core (8.0) project for the January exam
+
 Library with class materials for students
 
 - 3 roles (Student, Professor, Admin)
